@@ -8,7 +8,8 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": false,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gluestack.expo-gluestack-ui"
     },
     "android": {
       "adaptiveIcon": {
